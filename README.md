@@ -25,9 +25,9 @@
 
 - Segundo ponto
 
--  1 subponto
+  -  1 subponto
 
--  2 subponto
+  -  2 subponto
 
 Você pode até mesmo [link para o Google!] (Http://google.com)
 
