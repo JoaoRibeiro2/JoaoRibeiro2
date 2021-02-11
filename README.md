@@ -6,6 +6,28 @@
 
 **JoaoVitor** *testando*
 
+1. Um
+
+2. Dois
+
+3. Três
+
+**Pontos de Bala**
+
+
+* Primeiro ponto
+
+* Segundo ponto
+
+**Usando traços**
+
+- Primeiro ponto
+
+- Segundo ponto
+
+-  1 subponto
+
+-  2 subponto
 
 Você pode até mesmo [link para o Google!] (Http://google.com)
 
