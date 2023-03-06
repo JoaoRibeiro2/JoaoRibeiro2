@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is João Vitor, I'm 18 years old. I love programming and hope to work with it one day
+## My name is João Vitor, I'm 19 years old. I love programming and hope to work with it one day
 
 **JoaoRibeiro2/JoaoRibeiro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
